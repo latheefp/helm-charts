@@ -2,8 +2,25 @@ apiVersion: v1
 entries:
   secureshift:
   - apiVersion: v2
+    appVersion: 1.0.4
+    created: "2026-06-16T06:40:19.504613051Z"
+    description: SecureShift Access Control Platform
+    digest: cdeb1caea15762836bafe56d8543265e60775356636f4460a900d82611f423f5
+    keywords:
+    - secureshift
+    - access-control
+    - vulnerability-management
+    maintainers:
+    - email: latheefp@gmail.com
+      name: SecureShift Team
+    name: secureshift
+    type: application
+    urls:
+    - https://latheefp.github.io/helm-charts/charts/secureshift-1.0.4.tgz
+    version: 1.0.4
+  - apiVersion: v2
     appVersion: 1.0.3
-    created: "2026-06-16T05:25:42.468737562Z"
+    created: "2026-06-16T06:40:19.504195145Z"
     description: SecureShift Access Control Platform
     digest: b47010dd823caaca0868f2edcf4dcc6dac263b4c36001d99006778329bbc40dc
     keywords:
@@ -20,7 +37,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2026-06-16T05:25:42.468253268Z"
+    created: "2026-06-16T06:40:19.503739268Z"
     description: SecureShift Access Control Platform
     digest: 1723b39b313e342d41668bba2c87a91e8cb6f3887675e1767e8cfc4342e9015f
     keywords:
@@ -35,4 +52,4 @@ entries:
     urls:
     - https://latheefp.github.io/helm-charts/charts/secureshift-1.0.2.tgz
     version: 1.0.2
-generated: "2026-06-16T05:25:42.467634022Z"
+generated: "2026-06-16T06:40:19.503078366Z"
