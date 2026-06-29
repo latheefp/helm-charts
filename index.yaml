@@ -2,8 +2,25 @@ apiVersion: v1
 entries:
   secureshift:
   - apiVersion: v2
+    appVersion: 2.1.5
+    created: "2026-06-29T22:07:12.917255524Z"
+    description: SecureShift Access Control Platform
+    digest: 5b0a97291531b9a06aaaf7b9e3ac194cea84ce0f0ed32483ba386cc2c9a472fc
+    keywords:
+    - secureshift
+    - access-control
+    - vulnerability-management
+    maintainers:
+    - email: latheefp@gmail.com
+      name: SecureShift Team
+    name: secureshift
+    type: application
+    urls:
+    - https://latheefp.github.io/helm-charts/charts/secureshift-2.1.5.tgz
+    version: 2.1.5
+  - apiVersion: v2
     appVersion: 2.1.4
-    created: "2026-06-28T12:20:47.498756195Z"
+    created: "2026-06-29T22:07:12.916732256Z"
     description: SecureShift Access Control Platform
     digest: 24b92ac34843ce83536d957ecc20c7b61a0c595d535632dbeaa838ee35b62d85
     keywords:
@@ -20,7 +37,7 @@ entries:
     version: 2.1.4
   - apiVersion: v2
     appVersion: 2.1.3
-    created: "2026-06-28T12:20:47.498278521Z"
+    created: "2026-06-29T22:07:12.915416008Z"
     description: SecureShift Access Control Platform
     digest: 59f5e119cd8c043292fbbe4e122146c1f47069e3614f7708ca29c205d56f7e4c
     keywords:
@@ -37,7 +54,7 @@ entries:
     version: 2.1.3
   - apiVersion: v2
     appVersion: 2.1.2
-    created: "2026-06-28T12:20:47.497886156Z"
+    created: "2026-06-29T22:07:12.914224646Z"
     description: SecureShift Access Control Platform
     digest: 2a1862d07803e8562d028dc0fa210e7a8beab8966e41472fb9a92161ecd10167
     keywords:
@@ -54,7 +71,7 @@ entries:
     version: 2.1.2
   - apiVersion: v2
     appVersion: 2.1.1
-    created: "2026-06-28T12:20:47.497465683Z"
+    created: "2026-06-29T22:07:12.913818372Z"
     description: SecureShift Access Control Platform
     digest: 7ed3538e54bfee1b392e7e68fcf0b441eb88090e7366a90cb4106e69af5bec18
     keywords:
@@ -71,7 +88,7 @@ entries:
     version: 2.1.1
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2026-06-28T12:20:47.497029539Z"
+    created: "2026-06-29T22:07:12.913418938Z"
     description: SecureShift Access Control Platform
     digest: ded55b0ff858be5445707d7b5e91c217d627f188086d507c2ebbfdf13dad237f
     keywords:
@@ -88,7 +105,7 @@ entries:
     version: 2.1.0
   - apiVersion: v2
     appVersion: 2.0.7
-    created: "2026-06-28T12:20:47.496576531Z"
+    created: "2026-06-29T22:07:12.913014467Z"
     description: SecureShift Access Control Platform
     digest: 3ef8c84dd5453f67d222137a983397171f2e56514874f7af55c3ffa7d6cb1b7f
     keywords:
@@ -105,7 +122,7 @@ entries:
     version: 2.0.7
   - apiVersion: v2
     appVersion: 2.0.6
-    created: "2026-06-28T12:20:47.496167466Z"
+    created: "2026-06-29T22:07:12.912611692Z"
     description: SecureShift Access Control Platform
     digest: 92dc82fd0b42f23f96f9728d77c468b3171eaf4bc06936e28b321cc495507dd0
     keywords:
@@ -122,7 +139,7 @@ entries:
     version: 2.0.6
   - apiVersion: v2
     appVersion: 2.0.5
-    created: "2026-06-28T12:20:47.495694387Z"
+    created: "2026-06-29T22:07:12.912207346Z"
     description: SecureShift Access Control Platform
     digest: 33ec6e560d15bf9e07bdaf6a7dcf62109603441c4af0d9e3b814739995a34f79
     keywords:
@@ -139,7 +156,7 @@ entries:
     version: 2.0.5
   - apiVersion: v2
     appVersion: 2.0.4
-    created: "2026-06-28T12:20:47.49442959Z"
+    created: "2026-06-29T22:07:12.911809912Z"
     description: SecureShift Access Control Platform
     digest: 2dd86afec56bbcb597c4454e7ab6e53a703919f1d24bf2c6c2033f3b33508227
     keywords:
@@ -156,7 +173,7 @@ entries:
     version: 2.0.4
   - apiVersion: v2
     appVersion: 2.0.3
-    created: "2026-06-28T12:20:47.493160822Z"
+    created: "2026-06-29T22:07:12.911436688Z"
     description: SecureShift Access Control Platform
     digest: 0f6bb376f547debf7b91a263d1c78caf5084547499e4d038bd292f9cfcb726e3
     keywords:
@@ -173,7 +190,7 @@ entries:
     version: 2.0.3
   - apiVersion: v2
     appVersion: 2.0.2
-    created: "2026-06-28T12:20:47.492768631Z"
+    created: "2026-06-29T22:07:12.911052263Z"
     description: SecureShift Access Control Platform
     digest: 77eaff7e93e32d67647c32246efc62a1e808a92b150944141cfb1165b5d89077
     keywords:
@@ -190,7 +207,7 @@ entries:
     version: 2.0.2
   - apiVersion: v2
     appVersion: 2.0.1
-    created: "2026-06-28T12:20:47.492358884Z"
+    created: "2026-06-29T22:07:12.910613201Z"
     description: SecureShift Access Control Platform
     digest: aeca400393be30d744f251a5234f77567a99318bdd307685f8db67d6a8085022
     keywords:
@@ -207,7 +224,7 @@ entries:
     version: 2.0.1
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2026-06-28T12:20:47.491975706Z"
+    created: "2026-06-29T22:07:12.910220675Z"
     description: SecureShift Access Control Platform
     digest: d58cfc3b07b332830d95d3c9d1fedebbbde98d1116bff559c59c29b21e717041
     keywords:
@@ -224,7 +241,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.0.11
-    created: "2026-06-28T12:20:47.488676748Z"
+    created: "2026-06-29T22:07:12.905147482Z"
     description: SecureShift Access Control Platform
     digest: eb49b372c9ade50cb2de3c4292c63e60d310e61fd49c5ce1ed268ebf9bebe328
     keywords:
@@ -241,7 +258,7 @@ entries:
     version: 1.0.11
   - apiVersion: v2
     appVersion: 1.0.10
-    created: "2026-06-28T12:20:47.488202644Z"
+    created: "2026-06-29T22:07:12.904662855Z"
     description: SecureShift Access Control Platform
     digest: 5fd8305e9b53c1292fd68f5d977c4456d1973ddabc191e1bd313d8901125b960
     keywords:
@@ -258,7 +275,7 @@ entries:
     version: 1.0.10
   - apiVersion: v2
     appVersion: 1.0.9
-    created: "2026-06-28T12:20:47.491544394Z"
+    created: "2026-06-29T22:07:12.909778314Z"
     description: SecureShift Access Control Platform
     digest: df47e7faf40503efa1d14e276a92aa57ea95de1d8b5fa64547042b4af43fcb2b
     keywords:
@@ -275,7 +292,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: 1.0.8
-    created: "2026-06-28T12:20:47.491155797Z"
+    created: "2026-06-29T22:07:12.909368251Z"
     description: SecureShift Access Control Platform
     digest: f73e7279b11e19951ee32362664b9f58ab83069949d223d66443ef7834f64d72
     keywords:
@@ -292,7 +309,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: 1.0.7
-    created: "2026-06-28T12:20:47.490764329Z"
+    created: "2026-06-29T22:07:12.908689022Z"
     description: SecureShift Access Control Platform
     digest: 3bbf063c7336f4081977e64721af3995a4afaf661fb29a25a539a6b693ac736b
     keywords:
@@ -309,7 +326,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 1.0.6
-    created: "2026-06-28T12:20:47.490295035Z"
+    created: "2026-06-29T22:07:12.907418776Z"
     description: SecureShift Access Control Platform
     digest: 5dc340683158e770b3c8f8511dc8fb3b0cfe20b819f4d5c1d393fe219725b06f
     keywords:
@@ -326,7 +343,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2026-06-28T12:20:47.489920888Z"
+    created: "2026-06-29T22:07:12.906312389Z"
     description: SecureShift Access Control Platform
     digest: cdeb1caea15762836bafe56d8543265e60775356636f4460a900d82611f423f5
     keywords:
@@ -343,7 +360,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2026-06-28T12:20:47.489530177Z"
+    created: "2026-06-29T22:07:12.905939149Z"
     description: SecureShift Access Control Platform
     digest: b47010dd823caaca0868f2edcf4dcc6dac263b4c36001d99006778329bbc40dc
     keywords:
@@ -360,7 +377,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2026-06-28T12:20:47.489073847Z"
+    created: "2026-06-29T22:07:12.905522485Z"
     description: SecureShift Access Control Platform
     digest: 1723b39b313e342d41668bba2c87a91e8cb6f3887675e1767e8cfc4342e9015f
     keywords:
@@ -375,4 +392,4 @@ entries:
     urls:
     - https://latheefp.github.io/helm-charts/charts/secureshift-1.0.2.tgz
     version: 1.0.2
-generated: "2026-06-28T12:20:47.487566969Z"
+generated: "2026-06-29T22:07:12.903778053Z"
